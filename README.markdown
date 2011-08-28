@@ -1,5 +1,5 @@
 == Welcome to Rails
-This is a sample rails application for the beginners.
+This is a sample rails application for the beginners by subbu balla.I'm following ruby on rails tutorial on rubyonrails.org which is very very impressive.
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
